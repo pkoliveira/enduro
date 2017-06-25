@@ -1,2 +1,4 @@
-# enduro
-The remade popular car game of atari
+# Enduro
+[Game] "Enduro is a racing video game designed by Larry Miller and published by Activision for the Atari 2600 video game system in 1983. The object of the game is to be in an endurance race and to pass a certain amount of cars each day as to continue the race the next day. 
+   Enduro consists of maneuvering a race car in the National Enduro, a long-distance endurance race. The object of the race is to pass a certain amount of cars each day. Doing so will allow the player to continue racing for the next day. The driver must avoid other racers and pass 200 cars on the first day, and 300 cars with each following day. 
+   As the time in the game passes, visibility changes as well. When it is night in the game the player can only see the oncoming cars' taillights. As the days progress, cars will become more difficult to avoid as well. Weather and time of day are factors in how to play. During the day the player may drive through an icy patch on the road which would limit control of the vehicle, or a patch of fog may reduce visibility. " - Wikipedia
